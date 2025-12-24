@@ -1,3 +1,4 @@
+![Pipeline Diagram](ihg.png)
 
 
 # IHG Pet-Friendly Hotels Scraper 🐾🏨
@@ -37,3 +38,4 @@ Built for **data pipelines, enrichment jobs, and hotel intelligence systems**.
 - ihg_hotels_output.csv # Flat CSV export
 - README.md # This file
 ---
+
